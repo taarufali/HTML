@@ -1,2 +1,12 @@
 # HTML
 index.html  
+html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First HTML</title>
+  </head>
+  <body>
+    <h1>Hello, GitHub!</h1>
+  </body>
+</html>
